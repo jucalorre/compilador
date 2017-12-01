@@ -1,0 +1,11 @@
+#include <iostream.h>
+#include <conio.h>
+int main(){ 
+int a;
+float Pi;
+Pi = main;
+cout << hola << endl;
+getch();
+return 3;
+}
+//C:\Users\AULA 45\Desktop\Compiladores\Proyecto_Compilador\src\JFlex\programa4.txt
